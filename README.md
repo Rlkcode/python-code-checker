@@ -44,8 +44,10 @@ pip install coloramaUsageCheck a file:python checker.py myfile.pyCheck a folder:
 
 👤 المطورRlk-code
 GitHub: @
+
 ⭐ دعم المشروع
 
 إذا أعجبتك الأداة، لا تنسَ إعطاء المشروع نجمة ⭐
+
 صُنع بـ 💙 بواسطة Rlk-code
   
