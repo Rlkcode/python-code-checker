@@ -21,7 +21,11 @@ A simple Python tool to check and analyze code quality and detect problems and i
 Requires Python 3.6 or higher
 
 `bash
-pip install coloramaUsageCheck a file:python checker.py myfile.pyCheck a folder:python checker.py myproject/Save JSON report:python checker.py myfile.py --jsonSave HTML report:python checker.py myfile.py --htmlExample Output
+&pip install colorama 
+&Usage  Check a file:python checker.py myfile.py 
+&Check a folder:python checker.py myproject/Save 
+&JSON report:python checker.py myfile.py --jsonSave 
+&HTML report:python checker.py myfile.py --htmlExample Output
 ============================================================
 تقرير فحص الكود: example.py
 ============================================================
