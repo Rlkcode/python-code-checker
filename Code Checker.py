@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 import ast
 import os
 import sys
@@ -405,11 +405,11 @@ def main():
     if len(sys.argv) < 2:
         print(color_text("Code Quality Checker v1.0", Fore.CYAN))
         print()
-        print("الاستخدام:")
-        print("  python checker.py <file.py>              # لفحص ملف واحد")
-        print("  python checker.py <directory>            # لفحص مجلد")
-        print("  python checker.py <file.py> --json       # تصدير JSON")
-        print("  python checker.py <file.py> --html       # تصدير HTML")
+        print("usage:")
+        print("  python checker.py <file.py>              ---scan  just one file")
+        print("  python checker.py <directory>            ---scan all directory")
+        print("  python checker.py <file.py> --json       ---Save report as JSON")
+        print("  python checker.py <file.py> --html       ---Save report as HTML")
         sys.exit(1)
     
     target = sys.argv[1]
