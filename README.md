@@ -32,7 +32,11 @@ Install:
 ```bash
 pip install colorama
 ```
-
+### تحميل الأد
+```bash
+git clone https://github.com/Rlkcode/python-code-checker.git
+cd python-code-checker
+```
 Run:
 ```bash
 python checker.py yourfile.py
@@ -140,10 +144,10 @@ python checker.py code.py --html
 
 ---
 
-## License
+## License ⚖️
 
 MIT License - feel free to use and modify
 
 ---
 
-**Made by Rlk-code**
+**Made by Rlk-code**💙
