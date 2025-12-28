@@ -32,7 +32,7 @@ Install:
 ```bash
 pip install colorama
 ```
-### تحميل الأد
+### 
 ```bash
 git clone https://github.com/Rlkcode/python-code-checker.git
 cd python-code-checker
